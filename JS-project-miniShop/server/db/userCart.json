@@ -1,0 +1,22 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "quantity": 2,
+            "id_product": 100,
+            "product_name": "Nike",
+            "price": 52,
+            "imgProduct": "./images/card1.jpg",
+            "imgCart": "./images/cart/card1.jpg"
+        },
+        {
+            "quantity": 5,
+            "id_product": 300,
+            "product_name": "Ribok",
+            "price": 112,
+            "imgProduct": "./images/card3.jpg",
+            "imgCart": "./images/cart/card3.jpg"
+        }
+    ]
+}

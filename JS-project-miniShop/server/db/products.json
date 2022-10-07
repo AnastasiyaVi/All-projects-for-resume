@@ -1,0 +1,23 @@
+[
+  {
+    "id_product": 100,
+    "product_name": "Nike",
+    "price": 52,
+    "imgProduct": "./images/card1.jpg",
+    "imgCart": "./images/cart/card1.jpg"
+  },
+  {
+    "id_product": 200,
+    "product_name": "Adidas",
+    "price": 85,
+    "imgProduct": "./images/card2.jpg",
+    "imgCart": "./images/cart/card2.jpg"
+  },
+  {
+    "id_product": 300,
+    "product_name": "Ribok",
+    "price": 112,
+    "imgProduct": "./images/card3.jpg",
+    "imgCart": "./images/cart/card3.jpg"
+  }
+]

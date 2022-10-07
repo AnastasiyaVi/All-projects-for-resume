@@ -1,0 +1,22 @@
+{
+    "amount": 150,
+    "countGoods": 2,
+    "contents": [
+        {
+            "quantity": 3,
+            "id_product": 100,
+            "product_name": "Nike",
+            "price": 52,
+            "imgProduct": "./images/card1.jpg",
+            "imgCart": "./images/cart/card1.jpg"
+        },
+        {
+            "quantity": 1,
+            "id_product": 200,
+            "product_name": "Adidas",
+            "price": 85,
+            "imgProduct": "./images/card2.jpg",
+            "imgCart": "./images/cart/card2.jpg"
+        }
+    ]
+}
